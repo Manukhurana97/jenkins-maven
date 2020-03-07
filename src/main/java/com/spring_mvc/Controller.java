@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 import com.spring_mvc.dao.daoimpl;
 import com.spring_mvc.model.User;
 
-import jakarta.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServlet;
 
 public class Controller extends HttpServlet {
 	
